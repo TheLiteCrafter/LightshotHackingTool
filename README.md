@@ -1,5 +1,5 @@
 # LightshotHackingTool
-A Random-Lightshot-Screenshot-URL Generator Tool.
+A Random-Lightshot-Screenshot-URL Generator Tool i made with Python.
 
 DO NOT USE FOR ANY ILLEGAL PURPOSES.
 This Tool is purely made for Fun and does not support any kind of Illegal Activitys!
