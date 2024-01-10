@@ -14,8 +14,8 @@ try:
     times = int(config["Settings"]["def_links"])
 
 except Exception as e:
-    print("Config File Is Corrupted or does no Exist! This Programm will Exit!")
-    sys.exit("Config File Is Corrupted or does no Exist!")
+    print("Config File Is Corrupted or does not Exist! This Programm will Exit!")
+    sys.exit("Config File Is Corrupted or does not Exist!")
 
 def get_url():
     RANDOM_GEN = str(str(random.choice(
